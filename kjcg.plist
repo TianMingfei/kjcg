@@ -40,7 +40,7 @@
 
 <key>url</key>
 
-<string>http://192.168.10.2/test.png</string>
+<string>https://raw.githubusercontent.com/TianMingfei/kjcg/main/Icon_1024x1024.png</string>
 
 </dict>
 
@@ -56,7 +56,7 @@
 
 <key>url</key>
 
-<string>http://192.168.10.2/test.png</string>
+<string>https://raw.githubusercontent.com/TianMingfei/kjcg/main/Icon_1024x1024.png</string>
 
 </dict>
 
